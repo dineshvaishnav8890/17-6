@@ -1,4 +1,4 @@
-variable "dineshvaishnav" {
+variable "docker_username" {
   description = "DockerHub username"
 }
 
